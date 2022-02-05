@@ -37,4 +37,4 @@ out/
 .vscode/
 
 ### 리액트 모듈 ###
-frontend/node_modules트
+frontend/node_modules/
